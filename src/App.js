@@ -14,11 +14,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Fulfillment - Code to Cloud - Opsera Sarab - Dec 6 demo
+          Fulfillment - Code to Cloud - Opsera - Dec 18 the Demo - Sarab
         </a>
       </header>
     </div>
   );
 }
-
 export default App;
