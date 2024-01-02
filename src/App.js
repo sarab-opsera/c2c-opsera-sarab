@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Fulfillment - Code to Cloud - Opsera - Dec 28th Demo 
+          Fulfillment - Code to Cloud - Opsera - Jan 2nd Demo 
         </a>
       </header>
     </div>
