@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Demo May 21st 
+          Demo June 6th 
         </a>
       </header>
     </div>
